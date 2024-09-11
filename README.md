@@ -1,38 +1,57 @@
-# Hi 👋, I'm Burma!
+<div align="center">
+  <img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
+</div>
 
-### Software Engineer
+<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Elcho</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![Visitors](https://badges.pufler.dev/visits/burma/burma?style=flat-square)
+## 🙋‍♂️ About Me
 
-I'm deeply passionate about backend development, specializing in creating scalable and robust server-side applications. I leverage a wide array of cutting-edge technologies to solve complex problems and drive innovation.
+<a href="https://github.com/Elkhan2003">
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
+</a>
 
-🛠️ **Tech Stack**
+## 📊 My Github Stats
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=websocket&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+</a>
+<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+</a>
+</div>
 
----
+<p align="center">
+    <a href="https://github.com/Elkhan2003">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
 
-🔗 **Connect with me:**
+## 🚀 Languages and Tools
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burmarysmatova)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burma18)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://burmarysmatova.vercel.app)
+<p align="left">
+    <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
+    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank">&nbsp<img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
+    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a> 
+    <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
+    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
+    <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
 
-**Let's build something exceptional together!**
+<br/>
+
+## 🔖 My contacts
+
+<div class="contacts">
+  <a href="https://wa.me/996990385056"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://t.me/Elcho911"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+  <a href="https://www.instagram.com/elcho911"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
+  <a href="https://vk.com/elcho_effects"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
+  <a href="https://www.youtube.com/channel/UC9Vp5dVZkpf7pkffeiADP2A"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
+  <a href="https://www.facebook.com/Elcho911"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
+</div>
