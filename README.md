@@ -1,14 +1,14 @@
 <div align="center">
-  <img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
+  <img width="800px" height="125px" src="https://elcho.netlify.app/Liliya-icons/elcho.gif"/>
 </div>
 
-<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Elcho</a> 
+<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Liliya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/Elkhan2003">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Full-Stack+Developer"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Developer"/>
 </a>
 
 ## 📊 My Github Stats
